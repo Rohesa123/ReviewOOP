@@ -1,2 +1,2 @@
 Cara Clone dan Pull Github
-(commit 1)
+(commit 2)
